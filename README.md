@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bakhtawar Jamadar
-- 👀 I’m interested in Full Stack Develppement
+- 👀 I’m interested in Full Stack Development
 - 🌱 I’m currently learning Backend 
 - 💞️ I’m looking to collaborate on OpenSource Contribution
 - 📫 How to reach me bakhtawar0111@gmail.com  
